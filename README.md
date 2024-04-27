@@ -1,3 +1,11 @@
+
+
+https://github.com/MALLILAKSHMIDEVI/Image-to-Sketch-Converter/assets/147050362/59944a99-bb6c-44d6-b528-2f740304e835
+
+
+
+
+
 Image to Sketch Converter
 This is a Python application with a graphical user interface (GUI) that allows users to upload images and convert them into sketch-like representations. The application provides options for adjusting sketch parameters and supports various image formats for enhanced flexibility.
 
