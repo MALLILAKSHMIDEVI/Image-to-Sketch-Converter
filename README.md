@@ -39,7 +39,15 @@ To use the Image to Sketch Converter, follow these steps:
 Clone the repository to your local machine.
 Install the necessary dependencies (tkinter, opencv-python, etc.).
 Run the Python script (image_to_sketch_converter.py).
+
 Upload an image, adjust the sketch parameters, preview the sketch, and save it as desired.
 Contributors:
 LAKSHMI(https://github.com/MALLILAKSHMIDEVI)
 Feel free to contribute to this project by forking the repository and creating pull requests with your changes.
+
+
+SAMPLE OUTPUT IMAGES:
+![Screenshot (532)](https://github.com/MALLILAKSHMIDEVI/Image-to-Sketch-Converter/assets/147050362/45f46300-8de3-4a2b-9db7-22f0aebef4a9)
+![Screenshot (536)](https://github.com/MALLILAKSHMIDEVI/Image-to-Sketch-Converter/assets/147050362/6342ef0a-76ec-42dd-982e-3be180781756)
+
+
